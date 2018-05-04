@@ -1,3 +1,7 @@
+## Unslider isn't being actively maintained any more, sorry.
+
+If you're after a great feature-rich slider, I recommend [Slick](https://github.com/kenwheeler/slick/) instead; if you're after a small, basic slider, http://basicslider.com/ is fantastic.
+
 Unslider
 ========
 
