@@ -18,7 +18,7 @@
     "carousel"
   ],
   "author": [
-    "Visual Idiot <iam@visualidiot.com>"
+    "Charlotte Swift <charlotte@upyard.com>"
   ],
   "license": "WTFPL",
   "bugs": {
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/idiot/unslider#readme",
   "dependencies": {
-    "jquery": "~> 3.0.0"
+    "jquery": "~3.0.0"
   }
 }
